@@ -23,5 +23,5 @@ Python, Pandas, Matplotlib
 - Poor work life balance(score 1) linked to 30% attrition rate
 - Attrition peaks at first 2 years of employment
 
-##Kaggle notebook
+## Kaggle notebook
 https://www.kaggle.com/code/nivethanagarajan22/hr-analytics-employee-attrition-insights
