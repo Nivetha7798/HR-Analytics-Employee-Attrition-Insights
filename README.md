@@ -10,7 +10,7 @@ Analysed IBM HR Analytics dataset of 1,470 employees to identify key factors dri
 - Do lower paid employees leave more often?
 - Which job roles are most at risk?
 - Does work life balance impact attrition?
-- At career stage do employees leave most?
+- At which career stage do employees leave most?
 
 ## Tools used
 Python, Pandas, Matplotlib
